@@ -31,4 +31,4 @@ print("Part 1:", ans1)
 
 ans2 = 0
 
-print("Part 1:", ans2)
+print("Part 2:", ans2)
